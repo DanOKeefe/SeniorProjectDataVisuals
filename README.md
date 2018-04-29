@@ -9,3 +9,9 @@ Visuals created in Tableau
 Visuals created in R with ggplot2
 
 ![DentalValetDemand](https://github.com/DanOKeefe/SeniorProjectDataVisuals/blob/master/DentalValetDemandPandD.jpeg)
+
+![ForecastedNetIncome](https://github.com/DanOKeefe/SeniorProjectDataVisuals/blob/master/NetIncome.jpeg)
+
+![StaffScheduled](https://github.com/DanOKeefe/SeniorProjectDataVisuals/blob/master/ValetStaffingLevels.jpeg)
+
+![MedValetDemand](https://github.com/DanOKeefe/SeniorProjectDataVisuals/blob/master/medComparedToDental.jpeg)
