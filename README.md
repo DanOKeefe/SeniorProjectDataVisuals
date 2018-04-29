@@ -10,8 +10,8 @@
 
 ![DentalValetDemand](https://github.com/DanOKeefe/SeniorProjectDataVisuals/blob/master/ForecastedValetDemandByType.jpeg)
 
+![MedValetDemand](https://github.com/DanOKeefe/SeniorProjectDataVisuals/blob/master/medComparedToDental.jpeg)
+
 ![ForecastedNetIncome](https://github.com/DanOKeefe/SeniorProjectDataVisuals/blob/master/NetIncome.jpeg)
 
 ![StaffScheduled](https://github.com/DanOKeefe/SeniorProjectDataVisuals/blob/master/ValetStaffingLevels.jpeg)
-
-![MedValetDemand](https://github.com/DanOKeefe/SeniorProjectDataVisuals/blob/master/medComparedToDental.jpeg)
