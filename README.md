@@ -8,7 +8,7 @@
 
 **Visuals created in R with ggplot2** :
 
-![DentalValetDemand](https://github.com/DanOKeefe/SeniorProjectDataVisuals/blob/master/DentalValetDemandPandD.jpeg)
+![DentalValetDemand](https://github.com/DanOKeefe/SeniorProjectDataVisuals/blob/master/ForecastedValetDemandByType.jpeg)
 
 ![ForecastedNetIncome](https://github.com/DanOKeefe/SeniorProjectDataVisuals/blob/master/NetIncome.jpeg)
 
